@@ -1,0 +1,1 @@
+Simple program to play rock, paper, scissors against computer.
